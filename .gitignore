@@ -55,3 +55,7 @@ data/
 .coverage
 htmlcov/
 .pytest_cache/
+
+grpo*/
+unsloth*/
+Qwen*/

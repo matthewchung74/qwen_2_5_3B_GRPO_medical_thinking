@@ -2,7 +2,7 @@
 
 <a href="https://github.com/unslothai/unsloth"><img src="https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png" width="115"></a>
 
-This repository contains a Jupyter notebook designed to demonstrate the use of the Unsloth library for implementing Generalized Reinforcement Policy Optimization (GRPO) with custom reward functions. The notebook is specifically tailored for handling unstructured text using a medical dataset, and it leverages advanced reward functions to enhance model performance.
+This repository contains a Jupyter notebook designed to demonstrate the use of the Unsloth library for implementing Generalized Reinforcement Policy Optimization (GRPO) with custom reward functions. The notebook is specifically tailored for handling unstructured text using a medical dataset, and it leverages advanced reward functions to enhance model performance. This code is intended for education purposes only and not intended for medical use.
 
 ## Overview
 

@@ -1,0 +1,13 @@
+unsloth
+vllm
+pillow
+transformers==4.31.0
+rouge_score
+bert_score
+datasets
+evaluate
+scikit-learn
+sentence_transformers
+sacremoses
+diffusers
+trl @ git+https://github.com/huggingface/trl.git@e95f9fb74a3c3647b86f251b7e230ec51c64b72b

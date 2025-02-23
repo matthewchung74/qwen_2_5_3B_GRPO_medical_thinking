@@ -1,6 +1,6 @@
 # Qwen2_5_(3B)_GRPO Notebook
 
-![Unsloth Logo](https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth_logo.png)
+<a href="https://github.com/unslothai/unsloth"><img src="https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png" width="115"></a>
 
 This repository contains a Jupyter notebook designed to demonstrate the use of the Unsloth library for implementing Generalized Reinforcement Policy Optimization (GRPO) with custom reward functions. The notebook is specifically tailored for handling unstructured text using a medical dataset, and it leverages advanced reward functions to enhance model performance.
 
@@ -29,7 +29,7 @@ To get started with this notebook:
    git clone https://github.com/yourusername/Qwen2_5_3B_GRPO.git
    cd Qwen2_5_3B_GRPO
    ```
-   
+
 2. **Run the Notebook**:
    Open the Jupyter notebook and execute the cells to set up the environment, train the model, and evaluate its performance
 

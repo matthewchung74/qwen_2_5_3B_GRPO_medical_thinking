@@ -2,6 +2,8 @@
 
 <a href="https://github.com/unslothai/unsloth"><img src="https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png" width="115"></a>
 
+Here it is on [Medium](https://medium.com/p/c224f63828dc) , but if you prefer, keep reading. Everything is here and and code!
+
 This repository contains a Jupyter notebook designed to demonstrate the use of the Unsloth library for implementing Generalized Reinforcement Policy Optimization (GRPO) with custom reward functions. The notebook is specifically tailored for handling unstructured text using a medical dataset, and it leverages advanced reward functions to enhance model performance. This code is intended for education purposes only and not intended for medical use.
 
 ## Overview
@@ -43,3 +45,4 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 - The [FreedomIntelligence/medical-o1-reasoning-SFT](https://huggingface.co/datasets/FreedomIntelligence/medical-o1-reasoning-SFT) dataset for enabling medical reasoning experiments
 
 For more information, please refer to the [Unsloth GRPO blog](https://unsloth.ai/blog/grpo) and the [Hugging Face documentation](https://huggingface.co/docs).
+
